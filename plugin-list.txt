@@ -1,0 +1,5 @@
+vim-pathogen
+SearchComplete.vim
+minibufexpl.vim
+nerdtree
+vimclojure-2.3.6

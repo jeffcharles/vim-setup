@@ -27,3 +27,8 @@ autocmd FileType scala setlocal shiftwidth=2 | setlocal tabstop=2
 autocmd FileType ruby setlocal shiftwidth=2 | setlocal tabstop=2
 
 let vimclojure#ParenRainbow=1
+
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l

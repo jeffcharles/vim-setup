@@ -5,6 +5,8 @@ set background=dark
 set expandtab
 set ignorecase
 set incsearch
+set list
+set listchars=tab:▸\ ,eol:¬
 set nocompatible
 set shiftwidth=4
 set smartcase

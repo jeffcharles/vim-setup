@@ -3,6 +3,7 @@ execute pathogen#infect()
 set autoindent
 set background=dark
 set expandtab
+set hidden
 set ignorecase
 set incsearch
 set list

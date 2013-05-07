@@ -2,6 +2,7 @@ execute pathogen#infect()
 
 set autoindent
 set background=dark
+set colorcolumn=80
 set expandtab
 set hidden
 set ignorecase

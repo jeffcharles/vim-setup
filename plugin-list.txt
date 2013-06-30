@@ -2,4 +2,5 @@ vim-pathogen
 SearchComplete.vim
 minibufexpl.vim
 nerdtree
-vimclojure-2.3.6
+vim-clojure-static
+rainbow_parentheses.vim

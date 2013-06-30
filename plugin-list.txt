@@ -5,3 +5,4 @@ nerdtree
 vim-clojure-static
 rainbow_parentheses.vim
 vim-classpath
+vim-fireplace

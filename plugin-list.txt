@@ -4,3 +4,4 @@ minibufexpl.vim
 nerdtree
 vim-clojure-static
 rainbow_parentheses.vim
+vim-classpath
